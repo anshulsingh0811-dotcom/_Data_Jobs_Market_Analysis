@@ -1,0 +1,13 @@
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Python cache (for future Python work)
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints (for future notebooks)
+.ipynb_checkpoints/
+
+data/
